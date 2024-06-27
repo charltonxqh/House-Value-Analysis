@@ -70,24 +70,24 @@ The dataset contains information on house features and sale prices, including:
 - xgboost
 
 ## Usage
-1. Clone the repository:
+1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/house-value-analysis.git
    cd house-value-analysis
    ```
-2. Install dependencies:
+   This command clones the project repository from GitHub to your local machine and navigates into the project directory. Replace `yourusername` with the actual GitHub username if needed.
+
+2. **Install Dependencies:**
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy scikit-learn matplotlib xgboost
    ```
-3. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
+   This command installs all the necessary Python packages for running the project's scripts.
+
+3. **Run the Analysis Script:**
+   Open the `main.ipynb` Jupyter Notebook and run all the cells to perform the analysis. This notebook performs data preprocessing, trains the machine learning models, and generates predictions. Ensure you have the dataset (`house_data.csv`) in the correct location as expected by the notebook.
 
 ## Acknowledgements
 - Data source: Kaggle
 - Thanks to the developers of the libraries used in this project.
 
 ---
-
-Feel free to further adjust the content to fit your specific needs and style preferences.
