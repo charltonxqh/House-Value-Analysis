@@ -72,7 +72,7 @@ The dataset contains information on house features and sale prices, including:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/charltonxqh/house-value-analysis.git
+   git clone https://github.com/yourusername/house-value-analysis.git
    cd house-value-analysis
    ```
 2. Install dependencies:
